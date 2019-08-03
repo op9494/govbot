@@ -1,0 +1,9 @@
+{
+  "id": "ffb0bb55-b19b-4711-867f-14f251fb0dc3",
+  "name": "certificate",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": "9745793e-b42d-4ea0-8215-d0a8a0f09398",
+  "name": "tems \u0026 condition qn",
+  "auto": true,
+  "contexts": [
+    "qn"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1a141605-7b0c-4fd8-9157-879e092d84af",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "question",
+          "value": "$question",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

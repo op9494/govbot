@@ -1,0 +1,40 @@
+{
+  "id": "0ae9bec6-e14f-46e5-b899-2ae68ea95942",
+  "name": "nav term and qn",
+  "auto": true,
+  "contexts": [
+    "service"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "qn",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "exit",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

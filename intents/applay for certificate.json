@@ -1,0 +1,40 @@
+{
+  "id": "2bccd904-0625-448c-aae0-ab1600af985f",
+  "name": "applay for certificate",
+  "auto": true,
+  "contexts": [
+    "service"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "2nav",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "exit",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

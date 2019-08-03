@@ -1,0 +1,46 @@
+[
+  {
+    "value": "Cancellation",
+    "synonyms": [
+      "Cancellation",
+      "cancel"
+    ]
+  },
+  {
+    "value": "Contact",
+    "synonyms": [
+      "Contact"
+    ]
+  },
+  {
+    "value": "Pricing",
+    "synonyms": [
+      "Pricing"
+    ]
+  },
+  {
+    "value": "Products sold",
+    "synonyms": [
+      "cost of product"
+    ]
+  },
+  {
+    "value": "Refund policy",
+    "synonyms": [
+      "Refund policy",
+      "giving back"
+    ]
+  },
+  {
+    "value": "contact details",
+    "synonyms": [
+      "contact details"
+    ]
+  },
+  {
+    "value": "support",
+    "synonyms": [
+      "support"
+    ]
+  }
+]
